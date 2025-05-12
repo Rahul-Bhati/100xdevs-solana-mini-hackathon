@@ -3,7 +3,7 @@
 	url = https://github.com/Rahul-Bhati/solana-watcher
 [submodule "Liquidity-Reward-Bot"]
 	path = Liquidity-Reward-Bot
-	url = https://github.com/Rahul-Bhati/Liquidity-Reward-Bot
+	url = https://github.com/Rahul-Bhati/Liquidity-Reward-Bot.git
 [submodule "solana-watcher-program"]
 	path = solana-watcher-program
 	url = https://github.com/Rahul-Bhati/solana-watcher-program
